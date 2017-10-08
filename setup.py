@@ -55,4 +55,3 @@ setup(
             'jsonlookup.cli:main']
     },
 )
-
